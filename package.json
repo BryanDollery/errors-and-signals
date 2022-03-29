@@ -1,0 +1,24 @@
+{
+  "name": "@bryandollery/errors-and-signals",
+  "version": "1.0.0",
+  "description": "A handler for signals and global errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanDollery/errors-and-signals.git"
+  },
+  "keywords": [
+    "node",
+    "errors",
+    "signals"
+  ],
+  "author": "Bryan Dollery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BryanDollery/errors-and-signals/issues"
+  },
+  "homepage": "https://github.com/BryanDollery/errors-and-signals#readme"
+}
